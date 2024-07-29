@@ -52,3 +52,4 @@ fn main(){
   str_len = str_len.len();
   println!("str_len {}", str_len);
 }
+//Rust에서는 변수의 타입을 변경하는 것이 허용되지 않기 때문에, 위의 코드에서는 다음과 같은 컴파일 오류 발생함
